@@ -12,3 +12,4 @@ Websites
 1. https://fivethirtyeight.com/
 2. [Who's bigger] (http://www.whoisbigger.com/)
 3. [Signal from noise by Nate Silver] (https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but/dp/0143125087)
+3. [Visual cinnamon- data art] (http://www.visualcinnamon.com/)
